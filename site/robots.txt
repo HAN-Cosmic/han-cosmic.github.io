@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://han-cosmic.github.io/sitemap.xml
