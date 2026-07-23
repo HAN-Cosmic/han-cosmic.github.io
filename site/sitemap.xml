@@ -16,6 +16,10 @@
     <loc>https://han-cosmic.github.io/about/</loc>
   </url>
   <url>
+    <loc>https://han-cosmic.github.io/tools/aconvert/</loc>
+    <lastmod>2026-07-23T00:00:00.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://han-cosmic.github.io/tools/adguard/</loc>
     <lastmod>2026-07-11T00:00:00.000Z</lastmod>
   </url>
@@ -36,8 +40,16 @@
     <lastmod>2026-07-11T00:00:00.000Z</lastmod>
   </url>
   <url>
+    <loc>https://han-cosmic.github.io/tools/convertio/</loc>
+    <lastmod>2026-07-23T00:00:00.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://han-cosmic.github.io/tools/datatool-video-downloader/</loc>
     <lastmod>2026-07-11T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://han-cosmic.github.io/tools/dazidazi/</loc>
+    <lastmod>2026-07-23T00:00:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://han-cosmic.github.io/tools/dockdoor/</loc>
@@ -68,6 +80,10 @@
     <lastmod>2026-07-11T00:00:00.000Z</lastmod>
   </url>
   <url>
+    <loc>https://han-cosmic.github.io/tools/flaticon/</loc>
+    <lastmod>2026-07-23T00:00:00.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://han-cosmic.github.io/tools/fuguang/</loc>
     <lastmod>2026-07-11T00:00:00.000Z</lastmod>
   </url>
@@ -92,12 +108,28 @@
     <lastmod>2026-07-11T00:00:00.000Z</lastmod>
   </url>
   <url>
+    <loc>https://han-cosmic.github.io/tools/ilovepdf/</loc>
+    <lastmod>2026-07-23T00:00:00.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://han-cosmic.github.io/tools/jianying/</loc>
     <lastmod>2026-07-11T00:00:00.000Z</lastmod>
   </url>
   <url>
+    <loc>https://han-cosmic.github.io/tools/koukoutu/</loc>
+    <lastmod>2026-07-23T00:00:00.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://han-cosmic.github.io/tools/mac-mouse-fix/</loc>
     <lastmod>2026-07-11T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://han-cosmic.github.io/tools/magic-resume/</loc>
+    <lastmod>2026-07-23T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://han-cosmic.github.io/tools/napkin-ai/</loc>
+    <lastmod>2026-07-23T00:00:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://han-cosmic.github.io/tools/netease-cloud-music/</loc>
@@ -116,6 +148,10 @@
     <lastmod>2026-07-11T00:00:00.000Z</lastmod>
   </url>
   <url>
+    <loc>https://han-cosmic.github.io/tools/pixabay/</loc>
+    <lastmod>2026-07-23T00:00:00.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://han-cosmic.github.io/tools/potplayer/</loc>
     <lastmod>2026-07-11T00:00:00.000Z</lastmod>
   </url>
@@ -128,12 +164,20 @@
     <lastmod>2026-07-11T00:00:00.000Z</lastmod>
   </url>
   <url>
+    <loc>https://han-cosmic.github.io/tools/qwerty-learner/</loc>
+    <lastmod>2026-07-23T00:00:00.000Z</lastmod>
+  </url>
+  <url>
     <loc>https://han-cosmic.github.io/tools/raycast/</loc>
     <lastmod>2026-07-11T00:00:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://han-cosmic.github.io/tools/readest/</loc>
     <lastmod>2026-07-11T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://han-cosmic.github.io/tools/reicon/</loc>
+    <lastmod>2026-07-23T00:00:00.000Z</lastmod>
   </url>
   <url>
     <loc>https://han-cosmic.github.io/tools/runcat/</loc>
