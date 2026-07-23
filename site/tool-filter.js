@@ -1,9 +1,11 @@
-const fields = ["search", "group"];
+const fields = ["search", "group", "category"];
 const controls = {
   search: document.querySelector("#search"),
   group: document.querySelector("#group"),
+  category: document.querySelector("#category"),
 };
 const cards = [...document.querySelectorAll(".tool-card")];
+const categorySections = [...document.querySelectorAll("[data-category-section]")];
 const count = document.querySelector("#result-count");
 const empty = document.querySelector("#empty");
 
@@ -20,7 +22,8 @@ function filter() {
   for (const card of cards) {
     const match =
       (!query || card.dataset.search.includes(query)) &&
-      (!controls.group.value || card.dataset.group.split(",").includes(controls.group.value));
+      (!controls.group.value || card.dataset.group.split(",").includes(controls.group.value)) &&
+      (!controls.category.value || card.dataset.category === controls.category.value);
 
     card.hidden = !match;
     if (match) visible++;
@@ -28,6 +31,12 @@ function filter() {
 
   count.textContent = `${visible} 个工具`;
   empty.hidden = visible !== 0;
+
+  for (const section of categorySections) {
+    const sectionCount = section.querySelectorAll(".tool-card:not([hidden])").length;
+    section.hidden = sectionCount === 0;
+    section.querySelector("[data-category-count]").textContent = `${sectionCount} 个工具`;
+  }
 
   const next = new URLSearchParams();
   for (const id of fields) {
